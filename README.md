@@ -63,6 +63,6 @@ A ferramenta utiliza uma combinação de fórmulas avançadas e boas práticas d
 
 ## 📈 Sobre o Autor
 
-Desenvolvido por **[Seu Nome]**, Analista Financeiro focado em inteligência de dados e mercado de capitais. 
+Desenvolvido por **[Geazi Borghese]**, Analista Financeiro focado em inteligência de dados e mercado de capitais(aluno de Ciência de Dados). 
 
 ---
